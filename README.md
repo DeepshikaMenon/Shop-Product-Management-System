@@ -16,3 +16,16 @@ This project is a comphrehensive Shop Product Management System implemented usin
 > MVC Architecture
 
 Ensures a clean separation of concerns, enhancing, ensuring persistent storage of shop and product information.
+# Components
+> Model
+
+The model represents the data layer of the application :
+
+1. Product : A class representing a product with attributes like 'id', 'name', 'price', 'quantity' and 'availability'.
+2. Shop : A class representing shop details with attributes like 'id', 'shop_Name','shop_Address','Gstno', 'contactNo', 'ownerName'.
+> View
+
+The view is responsible for displaying information to the user :
+
+1. ProductView : Handles the display of product details and user prompts.
+2. ShopView : Manages the display of shop details.
