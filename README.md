@@ -53,3 +53,19 @@ Ensure you have maven installed. Then, add the PostgreSQL dependency to your 'po
 # Usage
 > Initial Setup
 
+On the first run, the system will prompt you to enter shop details (name, address, contact, gstno, ownerName, Id). These details will be stored and automatically dispalyed/fetched on subsequent runs.
+> Product Operations
+
+1. Add Products : Follow the prompts to enter product details (id, name, price, quantity).
+2. View Products : Displays a list of all products in the database.
+3. Update Product :
+   
+   a) Select a product by ID to update.
+   
+   b) Specify what attributes you want to update : name, price or quantity.
+4. Delete Product : Remove a product by its ID.
+5. Example of first run
+
+For the first run you are prompt to enter shop details
+
+
