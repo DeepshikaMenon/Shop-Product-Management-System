@@ -64,8 +64,6 @@ On the first run, the system will prompt you to enter shop details (name, addres
    
    b) Specify what attributes you want to update : name, price or quantity.
 4. Delete Product : Remove a product by its ID.
-5. Example of first run
+5. Example of first run :
 
 For the first run you are prompt to enter shop details
-
-
