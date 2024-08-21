@@ -66,4 +66,14 @@ On the first run, the system will prompt you to enter shop details (name, addres
 4. Delete Product : Remove a product by its ID.
 5. Example of first run :
 
-For the first run you are prompt to enter shop details
+   a) For the first run you are prompt to enter shop details
+
+   ![Screenshot (54)](https://github.com/user-attachments/assets/f0013d0a-57f2-4a50-b602-d3f65f515d42)
+
+   ![Screenshot (55)](https://github.com/user-attachments/assets/f3f0de68-b1f6-458c-adcc-82a03c630e0e)
+
+   b) Example of subsequent runs
+
+   ![Screenshot (56)](https://github.com/user-attachments/assets/1cd3cb53-3924-4743-bf3d-03568abe7fd8)
+   ![Screenshot (57)](https://github.com/user-attachments/assets/d5a76a2d-7dbf-4793-b3e5-5571934860a1)
+   ![Screenshot (58)](https://github.com/user-attachments/assets/01f6b52f-0d67-4797-a1c9-7056577ada83)
